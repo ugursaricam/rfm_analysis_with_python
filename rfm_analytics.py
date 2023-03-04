@@ -32,9 +32,6 @@
 ##########################################
 # 2. Understanding the Data
 ##########################################
-import warnings
-
-warnings.simplefilter(action='ignore', category=FutureWarning)
 
 import pandas as pd
 import numpy as np
