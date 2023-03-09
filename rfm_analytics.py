@@ -19,7 +19,7 @@
 # dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 # Variables
-# InvoiceNo     :Invoice number. The unique number of each transaction, namely the invoice. If it starts with C, it shows the canceled invoice.
+# Invoice       :Invoice number. The unique number of each transaction, namely the invoice. If it starts with C, it shows the canceled invoice.
 # StockCode     :Unique number for each product.
 # Description   :Product description
 # Quantity      :It expresses how many of the products on the invoices have been sold.
